@@ -1,0 +1,14 @@
+{
+  "venv_name": "sr",
+  "python_version": "3.11",
+  "models": [
+    {
+      "model_id": "Crystal2020/realesrgan-ov",
+      "dir_name": "realesrgan-ov",
+      "required_files": [
+        "RealESRGAN_x4plus_dynamic.xml",
+        "RealESRGAN_x4plus_dynamic.bin"
+      ]
+    }
+  ]
+}

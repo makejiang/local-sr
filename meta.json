@@ -1,0 +1,20 @@
+{
+  "author": "Intel",
+  "author_icon": "",
+  "description": "Local offline image super-resolution on Windows — no cloud, no API cost, full privacy.",
+  "detail_describe": "本地图片超分放大\n基于RealESRGAN_x4plus模型，对低分辨率图片进行1/2/3/4倍放大（默认4倍）\n首次运行自动从ModelScope下载预转换的OpenVINO IR（动态输入）\n完全本地推理，图片不上传云端",
+  "display_description": "基于本地AI模型对图片进行4倍超分辨率放大（仅限英特尔AIPC平台）",
+  "display_name": "本地图片超分放大",
+  "name": "local-sr",
+  "scope": [
+    "main"
+  ],
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "把这张图片放大4倍",
+    "帮我把图片变清晰",
+    "把低分辨率照片放大成高清图",
+    "无损放大文件夹中的所有图片"
+  ],
+  "version": "1.0.9"
+}
